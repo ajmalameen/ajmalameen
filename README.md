@@ -1,6 +1,6 @@
 ![Ajmal ](https://user-images.githubusercontent.com/107386589/178095793-9feadf0a-1eca-4208-be70-0327490b74c5.jpg)
 <h1 align="center">Hi 👋, I'm Ajmal Ameen</h1>
-<h3 align="center">I am Jobin, a MERN stack developer,creative and a developer who loves to create new innovative ideas and tools. Currently I am Freelancing</h3>
+<h3 align="center">Creative and a developer who loves to create new innovative ideas and tools. Currently I am Freelancing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajmalameen&label=Profile%20views&color=0e75b6&style=flat" alt="ajmalameen" /> </p>
 
@@ -27,9 +27,6 @@
 
 
 
-[![Ajmal Ameen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajmalameen)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajmalameen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
