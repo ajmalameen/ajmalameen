@@ -6,7 +6,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://ajmalameen.github.io/ajmloffical/](https://ajmalameen.github.io/ajmloffical//)
+- 👨‍💻 All of my projects are available at [https://ajmalameen.github.io/ajml/]
 
 - 📫 How to reach me **ajmalameenkm10@gmail.com**
 
