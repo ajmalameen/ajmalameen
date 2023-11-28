@@ -5,7 +5,7 @@ I have significant technical abilities, primarily with the MERN stack. I began w
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on Luminar tecnolab 
+- 🔭 I’m currently working on Cyphershot
 - 🌱 I’m currently learning MERN 
 
 
